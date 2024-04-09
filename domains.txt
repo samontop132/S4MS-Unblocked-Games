@@ -1,4 +1,4 @@
 const domains = [
-            { name: 'https://samontop132.github.io/S4MS-Unblocked-Games/games.html', url: 'https://samontop132.github.io/S4MS-Unblocked-Games/games.html' },
+            { name: 'https://samontop132.github.io/', url: 'https://samontop132.github.io/S4MS-Unblocked-Games/games.html' },
             { name: '', url: '' },
             { name: '', url: '' },
